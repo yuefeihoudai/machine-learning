@@ -1,1 +1,2 @@
-# machine-learning
+包含的内容：
+1. 书籍pdf以及源码
